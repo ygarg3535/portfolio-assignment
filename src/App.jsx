@@ -11,7 +11,7 @@ import Projects from './components/Projects/Projects'
 function App() {
 
   return (
-    <>
+    <div>
       <Navbar/>
       <Hero/>
       <About/>
@@ -19,7 +19,7 @@ function App() {
       <Services/>
       <Projects/>
       <Footer/>
-    </>
+    </div>
   )
 }
 

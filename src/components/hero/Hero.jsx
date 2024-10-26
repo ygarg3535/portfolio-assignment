@@ -52,9 +52,8 @@ const Hero = () => {
           
           </div>
               <a
-                href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjGbxBCkrKpSZxNqGDSPdZzKrStFcjlTDgZgXqNhbpqwCjhBXsVzGTVfnDZCxgLCLlkL"
+                href=""
                 className="inline-block primary-btn !my-3"
-                target="_blank"
               >
                 Hire me
               </a>

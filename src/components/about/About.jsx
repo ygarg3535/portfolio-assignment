@@ -35,9 +35,8 @@ const About = () => {
                 Download Resume
               </a>
               <a
-                href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjGbxBCkrKpSZxNqGDSPdZzKrStFcjlTDgZgXqNhbpqwCjhBXsVzGTVfnDZCxgLCLlkL"
+                href=""
                 className="outline-btn my-6"
-                target="_blank"
               >
                 Contact
               </a>
