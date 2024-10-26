@@ -27,7 +27,7 @@ const Projects = () => {
             <a
               href="https://github.com/ygarg3535/Contactify-SCM"
               target="_blank"
-              className="ml-[21rem] font-semibold text-base"
+              className="md:ml-[21rem] font-semibold text-base"
             >
               GitHub
             </a>
@@ -45,7 +45,7 @@ const Projects = () => {
             <a
               href="https://github.com/ygarg3535/Password-Manager"
               target="_blank"
-              className="ml-[21rem] font-semibold text-base"
+              className="md:ml-[21rem] font-semibold text-base"
             >
               GitHub
             </a>
@@ -63,7 +63,7 @@ const Projects = () => {
             <a
               href="https://github.com/ygarg3535/Portfolio"
               target="_blank"
-              className="ml-[21rem] font-semibold text-base"
+              className="md:ml-[21rem] font-semibold text-base"
             >
               GitHub
             </a>
