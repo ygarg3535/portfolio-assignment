@@ -52,7 +52,6 @@ const Hero = () => {
           
           </div>
               <a
-                href=""
                 className="inline-block primary-btn !my-3"
               >
                 Hire me

@@ -35,7 +35,6 @@ const About = () => {
                 Download Resume
               </a>
               <a
-                href=""
                 className="outline-btn my-6"
               >
                 Contact
